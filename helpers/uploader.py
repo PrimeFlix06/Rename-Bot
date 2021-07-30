@@ -45,7 +45,7 @@ async def UploadFile(bot: Client, message: Message, file_path: str, file_size):
             caption=((Config.CAPTION.format((await bot.get_me()).username) + f"\n\n**File Name:** `{file_path.rsplit('/', 1)[-1]}`\n**File Size:** `{humanbytes(file_size)}`") if (caption_ is None) else caption_),
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("Developer - @douglas_dbot", url="https://t.me/douglas_dbot")],
+                    [InlineKeyboardButton("Developer", url="https://t.me/douglas_dbot")],
                     [InlineKeyboardButton("Support Group", url="https://t.me/joinchat/t3VFSCnFAaI0Mzk9"),
                      InlineKeyboardButton("Inline Bot", url="https://t.me/Kilipoyabot")]
                 ]
@@ -146,7 +146,7 @@ async def UploadVideo(bot: Client, message: Message, file_path: str, file_size, 
             caption=((Config.CAPTION.format((await bot.get_me()).username) + f"\n\n**File Name:** `{file_path.rsplit('/', 1)[-1]}`\n**File Size:** `{humanbytes(file_size)}`") if (caption_ is None) else caption_),
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("Developer - @douglas_dbot", url="https://t.me/douglas_dbot")],
+                    [InlineKeyboardButton("Developer", url="https://t.me/douglas_dbot")],
                     [InlineKeyboardButton("Support Group", url="https://t.me/joinchat/t3VFSCnFAaI0Mzk9"),
                      InlineKeyboardButton("Inline Bot", url="https://t.me/Kilipoyabot")]
                 ]
@@ -203,7 +203,7 @@ async def UploadAudio(bot: Client, message: Message, file_path: str, file_size, 
             caption=((Config.CAPTION.format((await bot.get_me()).username) + f"\n\n**File Name:** `{file_path.rsplit('/', 1)[-1]}`\n**File Size:** `{humanbytes(file_size)}`") if (caption_ is None) else caption_),
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("Developer - @douglas_dbot", url="https://t.me/douglas_dbot")],
+                    [InlineKeyboardButton("Developer", url="https://t.me/douglas_dbot")],
                     [InlineKeyboardButton("Support Group", url="https://t.me/joinchat/t3VFSCnFAaI0Mzk9"),
                      InlineKeyboardButton("Inline Bot", url="https://t.me/Kilipoyabot")]
                 ]
