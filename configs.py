@@ -22,7 +22,7 @@ I am Telegram Files Rename Bot.
 
 Send me a File to Rename.
 
-Made by @AbirHasan2005
+Made by @Username_Idarilla
     """
     PROGRESS = """
 Percentage : {0}%
