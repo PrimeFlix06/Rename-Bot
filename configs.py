@@ -26,11 +26,12 @@ __▪️I'm a Telegram File Rename Bot.
 
 ⚠️ Don't underestimate about my download speed,
 
-My upload speed is above your Guesses
+⚠️ My upload speed is above your Guesses
 
 ⚠️ Don't Spam Here!__
 
 **Made by @Username_Idarilla**
+❗𝐷𝑜𝑛'𝑡 𝐴𝑠𝑘 𝑀𝑦 𝑀𝑎𝑠𝑡𝑒𝑟 𝐹𝑜𝑟 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞❗
 
 
 
